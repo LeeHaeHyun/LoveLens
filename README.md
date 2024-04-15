@@ -1,4 +1,4 @@
-# blog_app
+# love_lens
 
 A new Flutter project.
 
